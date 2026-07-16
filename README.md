@@ -6,7 +6,7 @@ I'm currently building a strong foundation in **Computer Science** through unive
 
 ## 🚀 Current Focus
 
-    * Programming in C ![alt text](image.png)
+    * Programming in C 
     * Linux & Unix environments
     * Data Structures and Algorithms
     * Dynamic Memory Management
