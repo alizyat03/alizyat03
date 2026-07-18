@@ -19,7 +19,7 @@ My goal is to grow step by step without skipping the fundamentals.
 
 Current learning path:
 
-C
+<p align = center> C
    ↓
 C++
    ↓
@@ -27,7 +27,8 @@ Linux & System Programming
    ↓
 Backend Development
    ↓
-Software Engineering
+Software Engineering </p>
+
 Alongside my university studies, I'm working toward:
 
 * GitHub Foundations
