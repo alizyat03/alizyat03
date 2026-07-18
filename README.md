@@ -45,6 +45,7 @@ Here you'll find projects about:
 * Unix utility reimplementations (`grep`, `sort`, `tail`, `diff`, `cp`)
 * Algorithms and problem solving
 * Command line applications
+  
 Every project is an opportunity to improve code quality, modularity and software design.
 
 
