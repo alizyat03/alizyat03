@@ -15,6 +15,7 @@ I'm currently building a strong foundation in Computer Science through universit
 * Problem Solving
 
 📚 Learning Roadmap
+
 My goal is to grow step by step without skipping the fundamentals.
 
 Current learning path:
@@ -37,6 +38,7 @@ Alongside my university studies, I'm working toward:
 * Modern backend development
 
 💻 Projects
+
 Here you'll find projects about:
 
 * Dynamic memory allocation
