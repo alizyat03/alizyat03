@@ -57,6 +57,7 @@ Every project is an opportunity to improve code quality, modularity and software
 Languages
 
 * C
+* Python
 * Bash
 * SQL (learning)
 * C++ (planned)
