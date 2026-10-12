@@ -87,7 +87,5 @@ For this reason, most of my repositories focus on understanding how software wor
 "First learn how things work. Then learn how to build bigger things."
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-     <img src="https://streak-stats.demolab.com?user=alizyat03&theme=vision-friendly-dark" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=alizyat03&theme=dracula" alt="GitHub Streak" /></a>
 </p>
